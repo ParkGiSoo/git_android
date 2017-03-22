@@ -22,7 +22,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="넣어줌 : 기수,남희,경하,민욱"
+        android:text="넣어줌 : 기수,남희,경하,민욱1111"
         tools:layout_editor_absoluteX="91dp"
         tools:layout_editor_absoluteY="165dp"
         />
